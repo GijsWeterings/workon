@@ -1,0 +1,16 @@
+{
+  "name": "workon",
+  "version": "1.0.0",
+  "description": "A command-line tool to log work quickly and painlessly",
+  "main": "index.js",
+  "repository": "https://github.com/GijsWeterings/workon",
+  "author": "Gijs Weterings <me@gijsweterings.nl>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "workon": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
